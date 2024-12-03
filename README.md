@@ -10,7 +10,7 @@
 
 Instructions will be shown through the Jupyter notebook in Colab. <br />
 Spanish Notebook [Click here](https://colab.research.google.com/drive/1ZNrRdIRk1KbmwpuA58Bnecvo3JFW6MJA#scrollTo=USezkNF66-d1)  <br />
-English Notebook [Click Here](https://colab.research.google.com/drive/19fruDZxhkfwpz1mDGXim7FkKKI6gdDAt) <br />
+English Notebook [Click Here](https://colab.research.google.com/drive/14C8k2tcgyQEzm8h05qeLwGcbZUV1aVtE) <br />
 
 # If you'd like to dissect the project:
 
